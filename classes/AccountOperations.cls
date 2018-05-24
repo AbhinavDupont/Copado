@@ -2,6 +2,8 @@ public class AccountOperations {
     //Changes of Copado New Repository US1
     public static Account setDefaultDescription(Account a) {
         a.Description = 'Default Description Copado New';
+        if(a.Description!='')
+            System.debug('This is Static Code Violation');
         return a;
     }
     
