@@ -181,6 +181,11 @@
             <sortOrder>5</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>SendEmail</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>10</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>NewEvent</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>6</sortOrder>
@@ -201,11 +206,6 @@
             <sortOrder>9</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
-            <actionName>SendEmail</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>10</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
             <actionName>ChangeRecordType</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>11</sortOrder>
@@ -214,11 +214,6 @@
             <actionName>Submit</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>12</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>Delete</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>13</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>ChangeOwnerOne</actionName>
@@ -244,6 +239,11 @@
             <actionName>Edit</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>18</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>Delete</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>13</sortOrder>
         </platformActionListItems>
     </platformActionList>
     <quickActionList>
